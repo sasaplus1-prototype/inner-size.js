@@ -1,6 +1,6 @@
 {
   "name": "inner-size",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "sasa+1 <sasaplus1@gmail.com>",
   "description": "cross browser innerWidth/innerHeight",
   "main": "./index.js",
